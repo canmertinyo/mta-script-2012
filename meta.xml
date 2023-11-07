@@ -1,0 +1,4 @@
+<meta>
+	<info type="script" name="Ramp" author="SquaLCaN" version="1.5" />
+        <script src="vehramp.lua" type="client" />        
+</meta>
